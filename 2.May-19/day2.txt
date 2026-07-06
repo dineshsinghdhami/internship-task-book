@@ -1,0 +1,17 @@
+Task Assigned: Practice Python basics with logic building problems
+
+Today supervisor assigned us Python basic logic building tasks to strengthen problem-solving skills. The main focus was understanding conditions, loops, and basic program logic.
+
+Tasks completed today:
+
+* Pattern printing (triangle and pyramid)
+* Odd/even number checker
+* Largest among 3 numbers
+
+First, I practiced pattern printing using nested loops to print triangle and pyramid patterns. This helped me understand loop structure better.
+
+Then I created an odd/even checker using conditional statements to determine whether a number is odd or even.
+
+Finally, I built a program to find the largest among three numbers using if-else conditions.
+
+Today’s tasks helped improve my understanding of Python basics and logic building.
