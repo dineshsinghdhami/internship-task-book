@@ -1,0 +1,10 @@
+Task Assigned: Setup Python, VS Code, Jupyter Notebook and required libraries for internship work
+
+Today was the first day of internship, so there were not many tasks. Most of the day went in orientation and introduction with supervisor and team members. We had general discussion about internship, upcoming tasks, and project work.
+
+After that, I installed the required software and tools for internship work like Python, VS Code, and Jupyter Notebook. I also installed important Python libraries for data science tasks such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn using pip install command in terminal.
+
+Command used:
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter notebook
+
+Overall, today was mainly about setup and understanding the internship workflow.
