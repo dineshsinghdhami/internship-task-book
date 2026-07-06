@@ -1,0 +1,17 @@
+Task Assigned: Practice Python logic building with number-based problems
+
+Today supervisor assigned number-based Python problems to improve logic building and problem-solving skills. The focus was on using loops, conditions, and number manipulation.
+
+Tasks completed today:
+
+* Reverse a number
+* Palindrome checker
+* Fibonacci series
+
+First, I created a program to reverse a number using loops and arithmetic operations. This helped me understand number manipulation in Python.
+
+Then I built a palindrome checker to check whether a number or string reads the same forward and backward.
+
+Finally, I created a Fibonacci series program to generate sequence numbers using loop logic.
+
+Today’s tasks helped improve my understanding of Python loops, conditions, and logical thinking.
