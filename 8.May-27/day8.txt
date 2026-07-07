@@ -1,0 +1,14 @@
+Task Assigned: Practice Python functions and lambda expressions
+
+Today supervisor assigned tasks related to Python functions and lambda expressions. The main objective was to understand how to write reusable code and simplify small functions using lambda.
+
+Tasks completed today:
+
+* Create reusable functions
+* Lambda exercises
+
+First, I practiced creating reusable functions for common operations such as addition, subtraction, multiplication, and division. This helped me understand function definition, parameters, and return values.
+
+Then I practiced lambda expressions to create short anonymous functions for simple calculations.
+
+Today’s tasks improved my understanding of function-based programming and writing cleaner Python code.
