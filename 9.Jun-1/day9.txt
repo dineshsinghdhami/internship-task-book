@@ -1,0 +1,16 @@
+Task Assigned: Practice Python file handling operations
+
+Today supervisor assigned tasks related to Python file handling. The main objective was to understand how to create, read, and write text files using Python.
+
+Tasks completed today:
+
+* Read/write text files
+* Count lines and words
+
+First, I practiced creating and writing data into text files using Python file handling methods.
+
+Then I learned how to read content from text files.
+
+Finally, I created a program to count total lines and words in a text file.
+
+Today’s tasks improved my understanding of file handling and text processing in Python.
