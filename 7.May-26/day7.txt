@@ -1,0 +1,18 @@
+Task Assigned: Mini Assignment - Build Student Grade Calculator
+
+Today supervisor assigned a mini project to build a Student Grade Calculator using Python. The main objective was to apply the Python concepts learned throughout the week in a practical program.
+
+Task completed:
+
+* Built Student Grade Calculator
+
+In this project, I created a program that takes marks of multiple subjects as input from the user. The program calculates total marks, percentage, and assigns grade based on performance.
+
+Grade conditions used:
+
+* A = 80% and above
+* B = 60% to 79%
+* C = 40% to 59%
+* F = Below 40%
+
+This mini assignment helped me combine input handling, arithmetic operations, conditional statements, and problem-solving skills into a practical project.
