@@ -36,6 +36,7 @@ internship-task-book/
 ├── 8.May-27/
 ├── 9.Jun-1/
 ├── 10.Jun-2/
+├── 11.Jun-3/
 ├── ...
 ├── Internship Reports/
 ├── Internship Log Book/
