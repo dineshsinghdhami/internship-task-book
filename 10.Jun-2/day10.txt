@@ -1,0 +1,17 @@
+Task Assigned: Practice NumPy array operations
+
+Today supervisor assigned tasks related to NumPy, which is an important library for data science and numerical computing. The main objective was to understand array creation and basic array operations.
+
+Tasks completed today:
+
+* NumPy arrays basics
+* Reshape
+* Slicing
+
+First, I learned how to create NumPy arrays and perform basic operations.
+
+Then I practiced reshaping arrays into different dimensions.
+
+Finally, I performed slicing operations to access specific elements, rows, and columns from arrays.
+
+Today’s tasks improved my understanding of NumPy arrays and data handling for data science.
