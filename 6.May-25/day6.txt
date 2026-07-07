@@ -1,0 +1,17 @@
+Task Assigned: Practice Python dictionary and string-based problem solving
+
+Today supervisor assigned dictionary and string-based tasks to improve understanding of data handling and problem solving using Python.
+
+Tasks completed today:
+
+* Dictionary frequency counter
+* Character count in string
+* Word count
+
+First, I created a dictionary frequency counter to count how many times each element appears in a list.
+
+Then I built a character count program to count the number of characters in a string.
+
+Finally, I created a word count program to count total words in a given sentence.
+
+Today’s tasks helped me improve my understanding of dictionaries, strings, and data counting techniques in Python.
