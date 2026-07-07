@@ -1,0 +1,17 @@
+Task Assigned: Practice Python list operations and problem solving
+
+Today supervisor assigned Python list-based tasks to improve understanding of data handling using lists. The main focus was on performing basic list operations and solving problems using list methods, loops, and conditions.
+
+Tasks completed today:
+
+* List operations
+* Remove duplicates from list
+* Find second largest number from list
+
+First, I practiced basic list operations such as adding elements, removing elements, updating values, and displaying list items.
+
+Then I created a program to remove duplicate values from a list.
+
+Finally, I built a program to find the second largest number from a list.
+
+Today’s tasks helped me understand Python lists better and improved my problem-solving skills using list data structures.
