@@ -1,0 +1,1 @@
+Today I learned how to generate random datasets using NumPy. I created sample datasets such as student marks and used array filtering techniques to extract data based on conditions. This helped me understand how NumPy can efficiently handle large numerical datasets and filtering operations in data analysis.
