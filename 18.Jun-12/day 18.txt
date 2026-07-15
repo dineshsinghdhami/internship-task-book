@@ -1,0 +1,1 @@
+Today I learned how to sort data using Pandas and organize records using grouping. I used sort_values() for sorting and groupby() for grouping data based on departments. This helped me understand how grouped analysis is performed in data science
