@@ -1,0 +1,7 @@
+
+
+Today I learned the basics of Pandas and DataFrames. I created DataFrames manually and read CSV files using Pandas. I also explored dataset structure and statistics using basic Pandas functions.
+
+Tomorrow’s Plan
+
+Learn row selection, column selection, and filtering using Pandas.
