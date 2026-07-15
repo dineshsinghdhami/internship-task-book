@@ -1,0 +1,1 @@
+Today I learned how to build a simple Sales Analyzer using NumPy. I created a sales dataset, performed calculations such as total sales, daily sales, product-wise sales, average sales, highest and lowest sales, and used filtering to find high sales values. This helped me understand how NumPy is useful for numerical data analysis.
