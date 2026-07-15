@@ -1,0 +1,1 @@
+Today I learned how to select rows and columns from a Pandas DataFrame and filter data using conditions. I used indexing, iloc(), and conditional filtering to retrieve specific records from datasets. This helped me understand how data selection works in real-world analysis.
