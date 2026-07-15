@@ -1,0 +1,1 @@
+In this task, I learned how to create basic visualizations using Matplotlib and Pandas. I created a line chart to show monthly sales trends and a bar chart to compare monthly profit. I also learned how to add chart titles, axis labels, grid lines, markers, and legends. This task helped me understand how visualization makes data easier to analyze and explain.
