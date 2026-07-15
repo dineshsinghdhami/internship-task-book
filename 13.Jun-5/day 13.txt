@@ -1,0 +1,1 @@
+Today I learned about matrix operations using NumPy. I created two matrices and performed matrix addition, element-wise multiplication, and matrix multiplication. I also calculated statistical values such as mean, median, and standard deviation. This helped me understand how NumPy is useful for handling numerical and matrix-based data in data science.
