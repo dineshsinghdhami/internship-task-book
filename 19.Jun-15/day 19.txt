@@ -1,0 +1,1 @@
+Today I learned aggregation in Pandas. I used aggregation functions such as sum(), mean(), max(), min(), and count() to summarize data. I also combined aggregation with groupby() to perform department-wise analysis.
