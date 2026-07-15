@@ -1,0 +1,1 @@
+Created multiple DataFrames and merged them using Pandas merge() function based on common columns. Practiced different merge operations including inner join, left join, right join, and outer join to combine structured datasets efficiently.
