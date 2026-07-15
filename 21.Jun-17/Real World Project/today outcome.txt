@@ -1,0 +1,1 @@
+Today I worked on a real-world student performance dataset and performed complete exploratory analysis using Pandas. I analyzed student performance based on grades, study time, failures, absences, and gender. This helped me understand how real-world datasets are explored to extract useful insights for data-driven decision making.s

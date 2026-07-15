@@ -1,0 +1,1 @@
+Today I worked on my first real-world mini data analysis project using Pandas. I analyzed a student performance dataset by performing filtering, sorting, grouping, and aggregation operations. This helped me understand how data analysis is performed to extract useful insights from academic datasets.
