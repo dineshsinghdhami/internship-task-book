@@ -1,0 +1,1 @@
+In this task, I learned how to create a boxplot using Matplotlib. Boxplot helped me understand data distribution, spread, median, quartiles, and outlier detection. I learned that boxplots are useful for identifying unusual values in datasets.
