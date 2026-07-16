@@ -1,0 +1,1 @@
+In this task, I learned Histogram and Pie Chart visualization using Matplotlib. Histogram helped me understand data distribution and frequency analysis, while Pie Chart helped me visualize percentage contribution of categories. These charts are useful for understanding patterns and proportions in data.
