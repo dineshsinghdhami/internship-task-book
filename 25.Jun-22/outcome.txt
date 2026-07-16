@@ -1,0 +1,1 @@
+In this task, I learned how to create a scatter plot using Matplotlib. Scatter plot helped me analyze the relationship between study hours and student marks. I understood how scatter plots are useful for identifying patterns, trends, and correlations between numerical variables.
