@@ -1,0 +1,1 @@
+In this task, I learned how to create a correlation heatmap using Pandas and Seaborn. Heatmaps helped me understand relationships between numerical variables such as study hours, attendance, assignment scores, and marks. This visualization is very useful in data analysis and machine learning.
