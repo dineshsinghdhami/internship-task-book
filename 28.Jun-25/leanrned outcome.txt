@@ -1,0 +1,1 @@
+In this assignment, I visualized a sales dataset using multiple chart types including line chart, bar chart, histogram, and pie chart. These visualizations helped in understanding sales trends, profit comparison, order distribution, and monthly sales contribution. This task improved my practical knowledge of data visualization in Python.
