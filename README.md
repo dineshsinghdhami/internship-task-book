@@ -9,7 +9,7 @@ Welcome to my **Internship Task Book** repository. This repository serves as a c
 - **Name:** Dinesh Singh Dhami
 - **Role:** Data Science Intern
 - **Organization:** Sipalaya Info Tech
-- **Duration:** May 2025 – Ongoing
+- **Duration:** May 2026 – Ongoing
 
 ---
 
@@ -116,14 +116,12 @@ This repository is regularly updated as I complete new internship tasks, assignm
 
 - **Email:** dineshdhamidn@gmail.com
 - **GitHub:** https://github.com/dineshsinghdhami
-- **LinkedIn:** https://linkedin.com/in/dineshsinghdhami1
+- **LinkedIn:** https://linkedin.com/in/dineshsinghdhami2
 
 ---
 
 ## Author
 
 **Dinesh Singh Dhami**
-
 Data Science Intern
-
 Sipalaya Info Tech
