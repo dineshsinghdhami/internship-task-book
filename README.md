@@ -122,6 +122,6 @@ This repository is regularly updated as I complete new internship tasks, assignm
 
 ## Author
 
-**Dinesh Singh Dhami**
-Data Science Intern
+**Dinesh Singh Dhami**  
+Data Science Intern  
 Sipalaya Info Tech
