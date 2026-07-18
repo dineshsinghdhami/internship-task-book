@@ -1,0 +1,1 @@
+In this task, I learned how to detect outliers using the Interquartile Range (IQR) method. I calculated Q1, Q3, IQR, lower bound, and upper bound to identify abnormal salary values in the dataset. Detecting outliers is essential for improving dataset quality before analysis and model building.
