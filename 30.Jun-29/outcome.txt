@@ -1,0 +1,1 @@
+In this task, I learned how to handle missing values using forward fill and backward fill methods in Pandas. Forward fill replaces missing values using previous valid values, while backward fill uses next valid values. These techniques are useful for sequential and time-series datasets.
