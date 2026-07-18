@@ -1,0 +1,1 @@
+In this task, I learned how to handle outliers using IQR-based techniques. First, outliers were detected from the Salary column using lower and upper bounds. Then, outliers were handled using two methods: removing outlier records and capping extreme values. Capping was useful because it preserved all records while reducing the effect of abnormal values.
