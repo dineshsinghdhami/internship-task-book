@@ -1,0 +1,1 @@
+In this task, I learned how to detect and remove duplicate records using Pandas. I used duplicated() to identify duplicate rows and drop_duplicates() to remove them. Removing duplicates improves data quality and ensures accurate analysis.

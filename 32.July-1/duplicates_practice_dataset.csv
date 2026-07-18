@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,City,Salary,Department
+101,Ram,22,Kathmandu,50000,IT
+102,Hari,24,Pokhara,45000,HR
+103,Sita,25,Lalitpur,55000,Finance
+104,Gita,23,Bhaktapur,48000,IT
+105,Rita,26,Kathmandu,52000,HR
+101,Ram,22,Kathmandu,50000,IT
+103,Sita,25,Lalitpur,55000,Finance
+104,Gita,23,Bhaktapur,48000,IT
+106,Aayush,27,Pokhara,62000,Sales
+107,Nisha,24,Kathmandu,47000,Marketing
