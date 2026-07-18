@@ -1,1 +1,4 @@
-In this assignment, I cleaned a customer dataset using Pandas. I identified missing values, checked duplicate records, removed duplicates, and filled missing values using mean, median, and mode techniques. This task helped me understand real-world data cleaning and preprocessing steps required before data analysis.
+In this assignment, 
+I cleaned a customer dataset using Pandas. 
+I identified missing values, checked duplicate records, removed duplicates, and filled missing values using mean, median, and mode techniques. 
+This task helped me understand real-world data cleaning and preprocessing steps required before data analysis.
