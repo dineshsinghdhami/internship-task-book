@@ -1,0 +1,8 @@
+Customer_ID,Name,Age,Gender,City,Salary,Purchase_Amount
+101,Ram,22,Male,Kathmandu,50000,1200
+102,Hari,,Male,Pokhara,45000,1500
+103,Sita,24,Female,,52000,1800
+104,Gita,23,Female,Lalitpur,,2000
+105,Rita,,Female,Bhaktapur,55000,
+106,Aayush,26,Male,Kathmandu,60000,2500
+107,Nisha,25,Female,Pokhara,48000,1700

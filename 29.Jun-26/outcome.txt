@@ -1,0 +1,1 @@
+In this task, I learned how to identify and handle missing values using Pandas. I practiced detecting null values using isnull(), removing null rows and columns using dropna(), and filling missing values using mean, median, and mode. These techniques are essential for data cleaning and preprocessing.
