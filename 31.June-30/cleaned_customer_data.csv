@@ -1,0 +1,102 @@
+Customer_ID,Name,Age,Gender,City,Salary,Purchase_Amount,Membership_Type,Join_Date,Last_Purchase_Date,Email,Phone,Satisfaction_Score,Payment_Method
+1001.0,Customer_1,25.83529411764706,Male,Kathmandu,55000.0,1800.0,Gold,2024-04-05,2025-12-04,customer1@gmail.com,9883197857.0,3.0,Bank Transfer
+1002.0,Customer_2,22.0,Male,Kathmandu,50000.0,1500.0,Bronze,2024-10-01,2025-09-07,customer2@gmail.com,9897226012.0,,Card
+1003.0,Customer_3,28.0,female,Lalitpur,200000.0,1200.0,Gold,2024-12-14,2025-06-09,customer3@gmail.com,9830868105.0,4.0,eSewa
+1004.0,Customer_4,22.0,Male,Bhaktapur,45000.0,1800.0,Silver,2024-10-09,2025-01-24,customer4@gmail.com,9871662963.0,3.0,Bank Transfer
+1005.0,Customer_5,22.0,female,Lalitpur,200000.0,1800.0,Bronze,2024-06-19,2025-04-23,customer5@gmail.com,9819335534.0,3.0,Card
+1006.0,Customer_6,26.0,Male,Pokhara,200000.0,1200.0,Silver,2024-05-15,2025-11-27,customer6@gmail.com,9858966946.0,4.0,eSewa
+1007.0,Customer_7,26.0,male,Lalitpur,55000.0,1800.0,Bronze,2024-02-20,2025-11-06,customer7@gmail.com,9881691040.0,4.0,Card
+1008.0,Customer_8,28.0,Female,Lalitpur,55000.0,1800.0,Bronze,2024-04-22,2025-06-27,customer8@gmail.com,9817507864.0,4.0,Cash
+1009.0,Customer_9,26.0,Female,Lalitpur,45000.0,1500.0,Bronze,2024-12-11,2025-04-21,customer9@gmail.com,9877005685.0,,Bank Transfer
+1010.0,Customer_10,24.0,MALE,Pokhara,50000.0,1800.0,Bronze,2024-09-09,2025-12-19,customer10@gmail.com,9867503414.0,,eSewa
+1011.0,Customer_11,24.0,male,Lalitpur,60000.0,1200.0,Gold,2024-02-05,2025-11-06,customer11@gmail.com,9866661351.0,3.0,Bank Transfer
+1012.0,Customer_12,28.0,female,Bhaktapur,70000.0,1800.0,Bronze,2024-01-22,2025-12-04,customer12@gmail.com,9882070937.0,5.0,eSewa
+1013.0,Customer_13,22.0,MALE,Bhaktapur,50000.0,2200.0,Gold,2024-12-24,2025-05-17,customer13@gmail.com,9833978249.0,3.0,eSewa
+1014.0,Customer_14,25.83529411764706,female,Lalitpur,50000.0,1500.0,Silver,2024-03-18,2025-09-01,customer14@gmail.com,9890388981.0,5.0,Bank Transfer
+1015.0,Customer_15,22.0,Male,Lalitpur,200000.0,1800.0,Gold,2024-01-08,2025-10-03,customer15@gmail.com,9821496211.0,,Cash
+1016.0,Customer_16,30.0,male,Pokhara,55000.0,2200.0,Bronze,2024-03-09,2025-09-28,customer16@gmail.com,9891415657.0,,Card
+1017.0,Customer_17,30.0,FEMALE,Pokhara,55000.0,1800.0,Silver,2024-11-21,2025-06-15,customer17@gmail.com,9879467853.0,,Cash
+1018.0,Customer_18,24.0,male,Kathmandu,55000.0,1200.0,Bronze,2024-09-08,2025-10-08,customer18@gmail.com,9810965138.0,3.0,Cash
+1019.0,Customer_19,24.0,Male,Kathmandu,200000.0,1800.0,Gold,2024-09-08,2025-05-22,customer19@gmail.com,9875151231.0,4.0,Card
+1020.0,Customer_20,25.83529411764706,female,Lalitpur,60000.0,1500.0,Silver,2024-07-07,2025-02-04,customer20@gmail.com,9898447167.0,,eSewa
+1021.0,Customer_21,28.0,Female,Bhaktapur,200000.0,1800.0,Gold,2024-11-21,2025-11-04,customer21@gmail.com,9818135295.0,,eSewa
+1022.0,Customer_22,22.0,male,Pokhara,50000.0,2500.0,Silver,2024-03-14,2025-03-09,customer22@gmail.com,9872092888.0,4.0,Cash
+1023.0,Customer_23,28.0,female,Kathmandu,45000.0,1800.0,Bronze,2024-01-03,2025-04-06,customer23@gmail.com,9864547971.0,,Bank Transfer
+1024.0,Customer_24,24.0,Female,Kathmandu,50000.0,2200.0,Gold,2024-07-09,2025-08-10,customer24@gmail.com,9866775103.0,,Card
+1025.0,Customer_25,24.0,MALE,Pokhara,45000.0,2500.0,Bronze,2024-09-02,2025-12-11,customer25@gmail.com,9817672593.0,3.0,Bank Transfer
+1026.0,Customer_26,30.0,female,Pokhara,45000.0,2500.0,Gold,2024-03-03,2025-10-03,customer26@gmail.com,9841568532.0,,Cash
+1027.0,Customer_27,30.0,male,Lalitpur,70000.0,1200.0,Bronze,2024-02-14,2025-11-19,customer27@gmail.com,9885863473.0,5.0,eSewa
+1028.0,Customer_28,24.0,FEMALE,Lalitpur,50000.0,1800.0,Silver,2024-03-22,2025-11-10,customer28@gmail.com,9871367643.0,5.0,Cash
+1029.0,Customer_29,22.0,Female,Lalitpur,70000.0,1200.0,Gold,2024-09-07,2025-09-09,customer29@gmail.com,9827778019.0,5.0,Cash
+1030.0,Customer_30,24.0,MALE,Lalitpur,50000.0,2200.0,Bronze,2024-12-10,2025-10-26,customer30@gmail.com,9897775215.0,3.0,eSewa
+1031.0,Customer_31,25.83529411764706,Male,Pokhara,55000.0,1200.0,Gold,2024-12-18,2025-03-09,customer31@gmail.com,9847816686.0,4.0,eSewa
+1032.0,Customer_32,24.0,FEMALE,Lalitpur,70000.0,2200.0,Silver,2024-01-03,2025-11-14,customer32@gmail.com,9847135391.0,3.0,Cash
+1033.0,Customer_33,26.0,male,Lalitpur,50000.0,1800.0,Silver,2024-09-23,2025-07-18,customer33@gmail.com,9811297845.0,3.0,Cash
+1034.0,Customer_34,25.83529411764706,male,Lalitpur,45000.0,1800.0,Bronze,2024-09-05,2025-07-05,customer34@gmail.com,9815614174.0,5.0,eSewa
+1035.0,Customer_35,22.0,MALE,Pokhara,55000.0,1500.0,Bronze,2024-02-12,2025-09-28,customer35@gmail.com,9864543049.0,4.0,Card
+1036.0,Customer_36,24.0,male,Bhaktapur,45000.0,1500.0,Bronze,2024-06-26,2025-07-26,customer36@gmail.com,9899913412.0,4.0,eSewa
+1037.0,Customer_37,24.0,FEMALE,Kathmandu,60000.0,1200.0,Silver,2024-04-07,2025-08-12,customer37@gmail.com,9850962024.0,4.0,Card
+1038.0,Customer_38,22.0,FEMALE,Pokhara,60000.0,1800.0,Silver,2024-02-25,2025-05-12,customer38@gmail.com,9896098221.0,,eSewa
+1039.0,Customer_39,22.0,Male,Lalitpur,50000.0,2500.0,Silver,2024-01-04,2025-10-14,customer39@gmail.com,9856397338.0,5.0,Bank Transfer
+1040.0,Customer_40,30.0,female,Kathmandu,60000.0,2500.0,Gold,2024-05-02,2025-12-14,customer40@gmail.com,9810226999.0,4.0,eSewa
+1041.0,Customer_41,28.0,Male,Lalitpur,70000.0,1800.0,Bronze,2024-02-24,2025-05-17,customer41@gmail.com,9851511484.0,,eSewa
+1042.0,Customer_42,28.0,FEMALE,Lalitpur,70000.0,1500.0,Gold,2024-07-22,2025-07-22,customer42@gmail.com,9833357554.0,5.0,Bank Transfer
+1043.0,Customer_43,30.0,Male,Lalitpur,55000.0,1500.0,Silver,2024-10-20,2025-11-11,customer43@gmail.com,9872409658.0,,Bank Transfer
+1044.0,Customer_44,25.83529411764706,male,Lalitpur,60000.0,1800.0,Gold,2024-11-03,2025-05-17,customer44@gmail.com,9899100953.0,5.0,Cash
+1045.0,Customer_45,24.0,FEMALE,Lalitpur,50000.0,1500.0,Gold,2024-01-02,2025-04-16,customer45@gmail.com,9892043803.0,3.0,Bank Transfer
+1046.0,Customer_46,28.0,FEMALE,Lalitpur,50000.0,1800.0,Bronze,2024-07-16,2025-07-08,customer46@gmail.com,9829806690.0,3.0,Cash
+1047.0,Customer_47,28.0,male,Pokhara,200000.0,1800.0,Bronze,2024-08-02,2025-09-08,customer47@gmail.com,9826288475.0,,Card
+1048.0,Customer_48,28.0,FEMALE,Lalitpur,70000.0,2500.0,Silver,2024-08-20,2025-12-17,customer48@gmail.com,9867276174.0,,Card
+1049.0,Customer_49,25.83529411764706,Female,Bhaktapur,55000.0,1500.0,Bronze,2024-05-25,2025-09-16,customer49@gmail.com,9894120751.0,4.0,eSewa
+1050.0,Customer_50,28.0,Male,Lalitpur,50000.0,1800.0,Silver,2024-06-18,2025-02-05,customer50@gmail.com,9830244148.0,4.0,Bank Transfer
+1051.0,Customer_51,25.83529411764706,male,Pokhara,45000.0,2200.0,Silver,2024-06-18,2025-08-14,customer51@gmail.com,9818357162.0,4.0,Bank Transfer
+1052.0,Customer_52,28.0,female,Kathmandu,200000.0,2500.0,Silver,2024-08-01,2025-06-10,customer52@gmail.com,9862343121.0,,Card
+1053.0,Customer_53,28.0,male,Lalitpur,60000.0,2200.0,Gold,2024-07-11,2025-11-22,customer53@gmail.com,9864266464.0,4.0,Bank Transfer
+1054.0,Customer_54,24.0,female,Lalitpur,45000.0,2200.0,Bronze,2024-10-22,2025-01-03,customer54@gmail.com,9896268397.0,,Card
+1055.0,Customer_55,28.0,male,Kathmandu,55000.0,2200.0,Silver,2024-04-15,2025-06-11,customer55@gmail.com,9860885459.0,5.0,Bank Transfer
+1056.0,Customer_56,26.0,Male,Bhaktapur,45000.0,1800.0,Bronze,2024-01-12,2025-04-21,customer56@gmail.com,9819209801.0,3.0,Cash
+1057.0,Customer_57,24.0,male,Kathmandu,70000.0,1500.0,Gold,2024-03-16,2025-11-04,customer57@gmail.com,9885694715.0,4.0,Bank Transfer
+1058.0,Customer_58,25.83529411764706,MALE,Lalitpur,50000.0,2500.0,Bronze,2024-12-23,2025-02-25,customer58@gmail.com,9831980274.0,5.0,Cash
+1059.0,Customer_59,30.0,Male,Lalitpur,70000.0,1800.0,Silver,2024-07-23,2025-04-03,customer59@gmail.com,9889470029.0,4.0,Cash
+1060.0,Customer_60,25.83529411764706,MALE,Lalitpur,200000.0,1200.0,Bronze,2024-01-12,2025-09-14,customer60@gmail.com,9898787891.0,5.0,Cash
+1061.0,Customer_61,30.0,FEMALE,Lalitpur,45000.0,2200.0,Silver,2024-02-14,2025-06-21,customer61@gmail.com,9871705170.0,4.0,Bank Transfer
+1062.0,Customer_62,24.0,FEMALE,Lalitpur,55000.0,1800.0,Bronze,2024-09-25,2025-08-15,customer62@gmail.com,9868461818.0,5.0,eSewa
+1063.0,Customer_63,24.0,Male,Lalitpur,60000.0,1500.0,Silver,2024-10-20,2025-11-13,customer63@gmail.com,9855150390.0,3.0,Bank Transfer
+1064.0,Customer_64,26.0,male,Bhaktapur,50000.0,1800.0,Silver,2024-06-09,2025-10-23,customer64@gmail.com,9847080140.0,3.0,Card
+1065.0,Customer_65,22.0,male,Bhaktapur,60000.0,2500.0,Gold,2024-12-16,2025-11-23,customer65@gmail.com,9875876924.0,,Cash
+1066.0,Customer_66,22.0,MALE,Pokhara,60000.0,1800.0,Gold,2024-05-22,2025-10-12,customer66@gmail.com,9873519947.0,5.0,Bank Transfer
+1067.0,Customer_67,25.83529411764706,female,Lalitpur,55000.0,1800.0,Silver,2024-05-10,2025-05-08,customer67@gmail.com,9826194158.0,4.0,eSewa
+1068.0,Customer_68,22.0,FEMALE,Lalitpur,200000.0,1800.0,Gold,2024-04-07,2025-12-16,customer68@gmail.com,9847111151.0,5.0,Cash
+1069.0,Customer_69,24.0,MALE,Pokhara,55000.0,1500.0,Silver,2024-01-23,2025-09-05,customer69@gmail.com,9846817443.0,3.0,Cash
+1070.0,Customer_70,30.0,MALE,Pokhara,55000.0,2200.0,Gold,2024-01-19,2025-05-16,customer70@gmail.com,9874251933.0,,eSewa
+1071.0,Customer_71,24.0,Male,Lalitpur,200000.0,2200.0,Gold,2024-02-13,2025-08-03,customer71@gmail.com,9887446468.0,3.0,Card
+1072.0,Customer_72,24.0,female,Lalitpur,45000.0,1500.0,Gold,2024-09-25,2025-07-20,customer72@gmail.com,9890010790.0,4.0,Bank Transfer
+1073.0,Customer_73,28.0,Female,Lalitpur,200000.0,2500.0,Silver,2024-05-19,2025-10-02,customer73@gmail.com,9891823275.0,3.0,Card
+1074.0,Customer_74,25.83529411764706,male,Lalitpur,55000.0,1200.0,Gold,2024-04-06,2025-09-03,customer74@gmail.com,9831009452.0,3.0,Bank Transfer
+1075.0,Customer_75,28.0,FEMALE,Lalitpur,60000.0,1800.0,Gold,2024-04-10,2025-12-10,customer75@gmail.com,9870939053.0,3.0,Card
+1076.0,Customer_76,26.0,FEMALE,Lalitpur,55000.0,1500.0,Silver,2024-02-18,2025-04-21,customer76@gmail.com,9829997018.0,5.0,Card
+1077.0,Customer_77,22.0,Male,Pokhara,200000.0,1800.0,Bronze,2024-12-27,2025-10-10,customer77@gmail.com,9868942178.0,3.0,Bank Transfer
+1078.0,Customer_78,25.83529411764706,MALE,Bhaktapur,55000.0,2500.0,Bronze,2024-08-15,2025-02-20,customer78@gmail.com,9815350023.0,,eSewa
+1079.0,Customer_79,30.0,MALE,Kathmandu,45000.0,1500.0,Bronze,2024-10-19,2025-01-25,customer79@gmail.com,9846173157.0,3.0,Card
+1080.0,Customer_80,28.0,female,Bhaktapur,55000.0,1500.0,Bronze,2024-07-21,2025-08-03,customer80@gmail.com,9873083727.0,5.0,Bank Transfer
+1081.0,Customer_81,26.0,MALE,Kathmandu,200000.0,1500.0,Silver,2024-07-23,2025-08-10,customer81@gmail.com,9898930456.0,,Cash
+1082.0,Customer_82,28.0,Male,Lalitpur,55000.0,1800.0,Gold,2024-07-28,2025-09-27,customer82@gmail.com,9810154493.0,,Bank Transfer
+1083.0,Customer_83,22.0,male,Lalitpur,55000.0,2500.0,Silver,2024-11-15,2025-01-07,customer83@gmail.com,9845843681.0,4.0,eSewa
+1084.0,Customer_84,28.0,FEMALE,Bhaktapur,45000.0,1200.0,Bronze,2024-10-26,2025-04-23,customer84@gmail.com,9831257157.0,5.0,Cash
+1085.0,Customer_85,30.0,Female,Kathmandu,50000.0,1200.0,Silver,2024-02-21,2025-03-16,customer85@gmail.com,9849172995.0,5.0,Bank Transfer
+1086.0,Customer_86,28.0,Female,Pokhara,60000.0,2500.0,Gold,2024-07-07,2025-10-17,customer86@gmail.com,9828321839.0,3.0,eSewa
+1087.0,Customer_87,28.0,MALE,Lalitpur,55000.0,1200.0,Silver,2024-12-10,2025-10-19,customer87@gmail.com,9898575748.0,,Card
+1088.0,Customer_88,28.0,female,Bhaktapur,55000.0,1800.0,Bronze,2024-09-13,2025-08-11,customer88@gmail.com,9835320492.0,4.0,Bank Transfer
+1089.0,Customer_89,24.0,Female,Kathmandu,55000.0,1800.0,Silver,2024-12-26,2025-07-13,customer89@gmail.com,9899078806.0,4.0,Bank Transfer
+1090.0,Customer_90,22.0,male,Lalitpur,70000.0,1800.0,Gold,2024-08-04,2025-09-15,customer90@gmail.com,9812059919.0,4.0,Bank Transfer
+1091.0,Customer_91,25.83529411764706,male,Kathmandu,60000.0,1800.0,Silver,2024-10-23,2025-07-21,customer91@gmail.com,9820779739.0,5.0,Bank Transfer
+1092.0,Customer_92,26.0,FEMALE,Bhaktapur,200000.0,2500.0,Gold,2024-10-03,2025-04-21,customer92@gmail.com,9848571356.0,4.0,Cash
+1093.0,Customer_93,28.0,Male,Kathmandu,60000.0,1500.0,Bronze,2024-05-01,2025-01-11,customer93@gmail.com,9817532195.0,5.0,eSewa
+1094.0,Customer_94,26.0,Female,Pokhara,50000.0,2500.0,Silver,2024-10-22,2025-03-06,customer94@gmail.com,9833497411.0,3.0,Bank Transfer
+1095.0,Customer_95,30.0,FEMALE,Pokhara,60000.0,2500.0,Gold,2024-04-15,2025-11-09,customer95@gmail.com,9871682508.0,5.0,Cash
+1096.0,Customer_96,28.0,MALE,Lalitpur,50000.0,1200.0,Silver,2024-06-19,2025-05-21,customer96@gmail.com,9866949781.0,5.0,Bank Transfer
+1097.0,Customer_97,26.0,male,Bhaktapur,200000.0,2200.0,Gold,2024-04-13,2025-10-12,customer97@gmail.com,9887149951.0,5.0,eSewa
+1098.0,Customer_98,22.0,FEMALE,Bhaktapur,55000.0,1200.0,Bronze,2024-11-25,2025-12-02,customer98@gmail.com,9891390501.0,,eSewa
+1099.0,Customer_99,24.0,female,Lalitpur,50000.0,1800.0,Gold,2024-10-09,2025-11-25,customer99@gmail.com,9898473848.0,4.0,Cash
+1100.0,Customer_100,25.83529411764706,FEMALE,Kathmandu,55000.0,2200.0,Gold,2024-10-12,2025-12-05,customer100@gmail.com,9822097496.0,5.0,eSewa
+,,,,Lalitpur,55000.0,1800.0,,,,,,,
