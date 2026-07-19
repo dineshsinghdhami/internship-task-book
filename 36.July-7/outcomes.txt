@@ -1,0 +1,1 @@
+In this task, I learned how to clean text-based data using Pandas string functions. I removed extra spaces, standardized capitalization, converted email addresses to lowercase, and replaced short-form categorical values. String cleaning improved data consistency and made the dataset more suitable for analysis.

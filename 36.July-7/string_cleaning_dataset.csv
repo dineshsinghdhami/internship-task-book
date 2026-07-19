@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Gender,City,Email,Membership_Type,Payment_Method
+101,  ram shrestha , male, kathmandu, ram@gmail.com , gold, cash
+102,HARI  KC,MALE ,KATHMANDU ,HARI@GMAIL.COM,GOLD ,CASH 
+103,sita  thapa,Female,Pokhara, sita@yahoo.com,Silver,Card
+104, Gita Rai , FEMALE, pokhara ,gita@gmail.com , silver , card 
+105,ramesh    khadka,female ,LALITPUR, RAMESH@YAHOO.COM ,BRONZE,ESEWA
+106,NISHA tamang ,F,bhaktapur ,nisha@gmail.com,bronze ,esewa 
+107,  anil lama,M ,Bhaktapur, anil@gmail.com ,Gold,Bank Transfer
+108,Sunita  Bista,male,Lalitpur ,SUNITA@GMAIL.COM ,SILVER , bank transfer 
+109,BIKASH  KARKI , FeMale , kathmandu , bikash@yahoo.com, bronze,CARD
+110,mina gurung,female,POKHARA,MINA@GMAIL.COM ,gold ,cash 
