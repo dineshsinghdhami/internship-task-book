@@ -1,0 +1,6 @@
+Employee_ID,Name,Age,Salary,Join_Date,Department
+1001,Ram,22,50000,2024-01-15,IT
+1002,Hari,24,45000,15/03/2024,HR
+1003,Sita,twenty five,55000,March 22 2024,Finance
+1004,Gita,23,48000,2024/05/10,IT
+1005,Rita,26,"52,000",invalid_date,Sales

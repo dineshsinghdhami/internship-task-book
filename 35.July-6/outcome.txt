@@ -1,0 +1,1 @@
+In this task, I learned how to identify and fix incorrect data types in datasets using Pandas. I converted object-type columns into numeric and datetime formats using to_numeric() and to_datetime(). Fixing data types improves data quality and ensures better preprocessing for analysis and machine learning.
