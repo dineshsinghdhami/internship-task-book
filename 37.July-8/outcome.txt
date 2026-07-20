@@ -1,0 +1,1 @@
+In this assignment, I performed complete data cleaning on an employee salary dataset using Pandas and NumPy. I handled missing values, removed duplicate records, fixed incorrect data types, detected and handled outliers using IQR, and cleaned inconsistent string values. This assignment improved my practical understanding of real-world data preprocessing workflows.

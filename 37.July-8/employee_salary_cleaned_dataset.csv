@@ -1,0 +1,11 @@
+Employee_ID,Employee_Name,Department,Salary,Experience_Years,Joining_Date,Gender,City,Employment_Type
+1001,Ram Shrestha,It,45000.0,2.0,2024-01-15,Male,Kathmandu,Full Time
+1002,Sita  Thapa,Hr,48000.0,3.0,,Female,Pokhara,Full Time
+1003,Hari Kc,Finance,52000.0,5.0,,Male,Lalitpur,Part Time
+1004,Gita Rai,It,52000.0,3.8,,Female,Bhaktapur,Full Time
+1005,Nisha Tamang,Sales,55000.0,4.0,,Female,Kathmandu,Contract
+1006,Aayush Lama,Marketing,60000.0,6.0,2024-05-12,Male,Pokhara,Full Time
+1007,Rita Karki,Hr,52000.0,3.0,2024-06-18,Female,Lalitpur,Part Time
+1008,Bikash Gurung,Finance,69625.0,8.0,2024-07-10,Male,Bhaktapur,Full Time
+1009,Sunita Bista,It,36625.0,1.0,2024-08-05,Female,Kathmandu,Contract
+1010,Mina Basnet,Sales,58000.0,4.0,2024-09-11,Female,Pokhara,Full Time
