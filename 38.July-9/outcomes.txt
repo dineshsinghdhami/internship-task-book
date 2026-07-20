@@ -1,0 +1,2 @@
+
+In this task, I learned how to convert categorical data into numerical format using Label Encoding and One Hot Encoding. Label Encoding assigns numeric labels to categories, while One Hot Encoding creates separate binary columns for each category. These encoding techniques are important preprocessing steps before applying machine learning models.
