@@ -1,0 +1,2 @@
+
+In this task, I learned feature scaling techniques using Standardization and Normalization. Standardization transformed numerical features to have mean close to 0 and standard deviation close to 1, while Normalization scaled values between 0 and 1. These preprocessing techniques improve machine learning model performance and stability.
