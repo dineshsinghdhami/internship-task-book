@@ -1,0 +1,2 @@
+
+In this task, I learned feature engineering techniques by creating new features from existing housing dataset columns. I created numerical, categorical, and binary features such as Price_per_sqft, Total_Rooms, House_Age_Category, Luxury_House, and Big_House. Feature engineering improves data quality and enhances machine learning model performance.
