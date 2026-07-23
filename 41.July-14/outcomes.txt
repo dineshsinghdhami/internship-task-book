@@ -1,2 +1,5 @@
 
-In this assignment, I performed complete preprocessing on the housing dataset. I checked missing values and duplicate records, encoded categorical columns, scaled numerical features using StandardScaler, and created new engineered features. The final dataset is now clean and ready for machine learning model development.
+In this assignment, 
+I performed complete preprocessing on the housing dataset. 
+I checked missing values and duplicate records, encoded categorical columns, scaled numerical features using StandardScaler, and created new engineered features. 
+The final dataset is now clean and ready for machine learning model development.
