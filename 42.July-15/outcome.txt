@@ -1,0 +1,1 @@
+In this assignment, I built a complete preprocessing pipeline on a housing dataset. I handled missing values, removed duplicate records, cleaned string columns, detected and capped outliers using IQR, encoded categorical features, scaled numerical features, created new engineered features, and visualized the cleaned dataset. The final dataset is ready for machine learning.

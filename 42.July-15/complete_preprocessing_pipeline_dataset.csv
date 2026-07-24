@@ -1,0 +1,51 @@
+House_ID,Location,House_Type,Bedrooms,Bathrooms,Area_sqft,Age_Years,Parking,Price
+3001,Kathmandu,Flat,3.0,1.0,800.0,1.0,NO,18000000.0
+3002,Lalitpur,Apartment,2.0,2.0,,18.0, Y ,25000000.0
+3003,Pokhara,Apartment,4.0,1.0,2200.0,25.0,Yes,12000000.0
+3004, kathmandu ,Flat,1.0,1.0,800.0,3.0,N,25000000.0
+3005,POKHARA,Apartment,3.0,4.0,1200.0,,yes,9000000.0
+3006,POKHARA,Villa,3.0,,3000.0,,No,4500000.0
+3007,Kathmandu,Flat,,,,25.0,N,25000000.0
+3008,Butwal,HOUSE,4.0,3.0,,1.0,N,
+3009,Bhaktapur,HOUSE,3.0,2.0,1200.0,18.0,yes,6500000.0
+3010,Kathmandu,HOUSE,4.0,4.0,,18.0,Yes,35000000.0
+3011,POKHARA,HOUSE,3.0,1.0,1500.0,18.0,No,6500000.0
+3012, kathmandu ,Villa,4.0,2.0,2600.0,,No,4500000.0
+3013,Bhaktapur,Flat,1.0,1.0,1200.0,5.0,NO,
+3014,Lalitpur,Villa,,3.0,1500.0,25.0,N,4500000.0
+3015,Kathmandu, apartment ,1.0,,2600.0,18.0,N,4500000.0
+3016,Bhaktapur,Apartment,5.0,4.0,950.0,3.0, Y ,6500000.0
+3017,Lalitpur,Villa,4.0,1.0,2600.0,18.0,NO,4500000.0
+3018, kathmandu ,HOUSE,2.0,4.0,2200.0,3.0,N,4500000.0
+3019, kathmandu ,House,,1.0,1200.0,1.0, Y ,25000000.0
+3020,Pokhara,HOUSE,3.0,4.0,2600.0,18.0,No,18000000.0
+3021,Butwal,Apartment,,2.0,,25.0,NO,25000000.0
+3022,Bhaktapur,HOUSE,1.0,3.0,800.0,,N,9000000.0
+3023,Bhaktapur,Apartment,2.0,,3000.0,18.0, Y ,18000000.0
+3024,Lalitpur, apartment ,1.0,,,18.0,No,9000000.0
+3025,Lalitpur, apartment ,2.0,2.0,2200.0,18.0,yes,6500000.0
+3026,Butwal,Apartment,2.0,,2600.0,8.0,Yes,4500000.0
+3027,Butwal,House,1.0,,1500.0,18.0,Yes,18000000.0
+3028,POKHARA, apartment ,2.0,4.0,2200.0,,N,9000000.0
+3029,Lalitpur,HOUSE,5.0,4.0,2600.0,18.0,NO,4500000.0
+3030,Butwal,HOUSE,1.0,,1500.0,,yes,9000000.0
+3031,Lalitpur,Flat,3.0,4.0,950.0,18.0,yes,4500000.0
+3032,Lalitpur,House,2.0,4.0,1500.0,1.0,NO,
+3033,POKHARA,House,5.0,4.0,2600.0,18.0,Yes,18000000.0
+3034,Lalitpur, apartment ,5.0,3.0,1800.0,1.0,NO,6500000.0
+3035,Lalitpur,Apartment,4.0,,800.0,18.0,No,35000000.0
+3036,POKHARA,Flat,5.0,,3000.0,18.0,No,18000000.0
+3037,Lalitpur,Apartment,2.0,1.0,3000.0,1.0,NO,18000000.0
+3038,Bhaktapur, apartment ,1.0,4.0,3000.0,5.0,yes,9000000.0
+3039,Butwal,Apartment,4.0,,2200.0,12.0,N,12000000.0
+3040, kathmandu ,Flat,2.0,1.0,800.0,12.0,yes,25000000.0
+3041,Lalitpur,Flat,1.0,,1200.0,1.0,NO,35000000.0
+3042,Kathmandu,Villa,5.0,2.0,1200.0,8.0,yes,12000000.0
+3043,Pokhara,Villa,5.0,1.0,3000.0,3.0,NO,
+3044,POKHARA,House,5.0,1.0,,25.0,NO,18000000.0
+3045,Kathmandu, apartment ,4.0,4.0,3000.0,18.0,No,6500000.0
+3090,Kathmandu,Villa,8.0,6.0,9000.0,2.0,Yes,150000000.0
+3091,Pokhara,Flat,1.0,1.0,300.0,30.0,No,1200000.0
+3004, kathmandu ,Flat,1.0,1.0,800.0,3.0,N,25000000.0
+3008,Butwal,HOUSE,4.0,3.0,,1.0,N,
+3013,Bhaktapur,Flat,1.0,1.0,1200.0,5.0,NO,
