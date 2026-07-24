@@ -66,7 +66,7 @@ internship-task-book/
 ├── 38.Jul-09/
 ├── 39.Jul-10/
 ├── 40.Jul-13/
-├── 41.Jul-14 /
+├── 41.Jul-14/
 ├── 42.Jul-15/
 ├── ...
 ├── Internship Reports/
